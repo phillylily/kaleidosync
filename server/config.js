@@ -3,8 +3,8 @@ module.exports = {
    * Your application `client_id` and `client_secret`.
    * Manage in your Spotify developer dashboard.
    */
-  client_id: 'YOUR CLIENT ID HERE',
-  client_secret: 'YOUR CLIENT SECRET HERE',
+  client_id: 'f68ca15ba8754e5894ec4d327a93b560',
+  client_secret: '468809aade454dda9b81a68d1eb45a90',
 
   /**
    * Set your application's Redirect URI to the following:
